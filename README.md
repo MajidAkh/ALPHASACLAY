@@ -23,7 +23,7 @@ Vous devez joindre une photo de vous format .png .jpg (tenter les deux formats) 
 
 
 
-## Pour lancer l'application (n'oublier pas d'activer votree webcam) :
+## Pour lancer l'application (n'oublier pas d'activer votre webcam) :
 ```
 pyhton3 easy_facial_recognition.py --i known_faces
 ```
