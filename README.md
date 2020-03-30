@@ -33,5 +33,5 @@ Cliquer sur q
 
 ## Pour toutes question en cas de bug:
 
-majid.akharaz@gmail.com
-camillebignet@live.fr
+<p> majid.akharaz@gmail.com </p>
+<p> camillebignet@live.fr </p>
