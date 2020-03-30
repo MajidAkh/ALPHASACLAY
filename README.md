@@ -18,7 +18,7 @@ Assurez vous d'avoir installé les librairies suivantes :
 
 ![Image](detection.jpg "google logo")
 
-## Pour être reconnue pas l'algorithme.
+## Pour être reconnu pas l'algorithme.
 Vous devez joindre une photo de vous format .png .jpg (tenter les deux formats) dans le dossier Knwon_faces
 
 
