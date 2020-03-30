@@ -14,6 +14,7 @@ Assurez vous d'avoir installé les librairies suivantes :
 - imutils
 - pillow
 
+![Image](detection.jpg "google logo")
 
 ## Pour être reconnue pas l'algorithme.
 Vous devez joindre une photo de vous format .png .jpg (tenter les deux formats) dans le dossier Knwon_faces
