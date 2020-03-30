@@ -1,8 +1,8 @@
 
 ## Auteur
 
-Bignet Camille 
-Akharaz Majid
+<p> Bignet Camille </p> 
+<p> Akharaz Majid </p>
 
 ### Pre-requis
 
@@ -24,6 +24,13 @@ Vous devez joindre une photo de vous format .png .jpg (tenter les deux formats) 
 ```
 pyhton3 easy_facial_recognition.py --i known_faces
 ```
+
+## Pour quitter la reconnaissance facial :
+```
+Cliquer sur q
+```
+
+
 ## Pour toutes question en cas de bug:
 
 majid.akharaz@gmail.com
