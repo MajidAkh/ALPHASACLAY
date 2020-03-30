@@ -14,6 +14,7 @@ Assurez vous d'avoir installé les librairies suivantes :
 - imutils
 - pillow
 
+
 ## Exemple
 
 ![Image](detection.jpg "google logo")
