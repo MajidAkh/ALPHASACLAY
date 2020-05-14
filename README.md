@@ -23,10 +23,11 @@ Assurez vous d'avoir installé les librairies suivantes :
 Vous devez joindre une photo de vous format .png .jpg (tenter les deux formats) dans le dossier Knwon_faces
 
 
+## Charger vos photos dans le dossier known_faces (n'oublier pas d'activer votre webcam).
 
 ## Pour lancer l'application (n'oublier pas d'activer votre webcam) :
 ```
-pyhton3 easy_facial_recognition.py --i known_faces
+python3 reconnaissance_facial.py --i known_faces
 ```
 
 ## Pour quitter la reconnaissance facial :
