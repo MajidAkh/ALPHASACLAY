@@ -10,8 +10,6 @@ import ntpath
 import matplotlib.pyplot as plt
 import smtplib
 from imutils.video import VideoStream
-import imutils, time, cv2, sys
-import smtplib, os
 from flask import Flask, render_template, Response
 app = Flask(__name__)
 
