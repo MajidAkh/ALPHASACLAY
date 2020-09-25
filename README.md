@@ -1,7 +1,7 @@
 
 ## Auteur
 
-<p> Bignet Camille </p> 
+
 <p> Akharaz Majid </p>
 
 ### Pre-requis
