@@ -39,4 +39,4 @@ Cliquer sur q
 ## Pour toutes questions merci de contacter:
 
 <p> majid.akharaz@gmail.com </p>
-<p> camillebignet@live.fr </p>
+
